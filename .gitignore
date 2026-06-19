@@ -1,0 +1,30 @@
+Virtual environment
+
+venv/
+ENV/
+.venv/
+
+Python cache files
+
+/pycache/
+*.pyc
+*.pyo
+*.pyd
+
+Local databases
+
+*.db
+enterprise_knowledge.db
+backend/chroma_db/
+chroma_db/
+
+Secure keys (NEVER upload these to GitHub!)
+
+.env
+backend/.env
+.env.*
+
+OS specific files
+
+.DS_Store
+Thumbs.db

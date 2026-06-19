@@ -1,0 +1,40 @@
+{
+    "company_docs": [
+    {
+    "id": "doc_001",
+    "title": "Marketing Department Onboarding Guidelines",
+    "category": "Onboarding",
+    "content": "Welcome to the Marketing Team! All new hires must spend their first week completing three core stages: 1. Setup system logins (Slack, Notion, and HubSpot). 2. Complete the Brand Voice Training Module. 3. Schedule 1-on-1 introductions with the Creative Director and the Head of Growth. The direct manager is responsible for assigning a 'buddy' by Day 2 to guide the new hire through daily standups."
+    },
+    {
+    "id": "doc_002",
+    "title": "Hardware Provisioning & Setup Process",
+    "category": "IT Operations",
+    "content": "IT hardware (MacBook Pro, Monitor, and YubiKey security key) must be requested by the hiring manager through the IT Service Portal. Standard setup takes 3 business days. Once hardware is delivered, the employee must perform a self-guided initial setup using their single-sign-on (SSO) credentials and activate multi-factor authentication (MFA) within 24 hours of first boot."
+    }
+    ],
+    "policies": [
+    {
+    "id": "pol_101",
+    "title": "Securing New Employee Accounts (Policy Sec-4.2)",
+    "category": "IT Security Compliance",
+    "content": "Under IT Security Policy Section 4.2, all new employee accounts must have Multi-Factor Authentication (MFA) enabled. Hiring managers are strictly required to submit hardware and account setup requests at least 48 hours (2 business days) prior to the employee's official start date. Failure to meet this timeline delays access to secure systems, as manual exceptions are prohibited."
+    },
+    {
+    "id": "pol_102",
+    "title": "Remote Work and Data Protection Directive",
+    "category": "Data Compliance",
+    "content": "Employees working remotely are prohibited from accessing customer databases over unsecured public Wi-Fi. A company-provided VPN must be active at all times when handling sensitive user records. Unauthorized local downloads of database backups are strictly forbidden and constitute a Tier-1 compliance violation."
+    }
+    ],
+    "tasks": [
+    {
+    "id": "task_init_1",
+    "task_description": "Submit hardware provisioning request for new hire Sarah",
+    "owner": "Hiring Manager",
+    "status": "Pending",
+    "deadline": "2026-06-21",
+    "created_at": "2026-06-19"
+    }
+    ]
+    }
