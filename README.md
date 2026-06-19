@@ -1,4 +1,4 @@
-Aegis Agentic Workspace: Enterprise Multi-Agent Orchestrator
+# Aegis Agentic Workspace: Enterprise Multi-Agent Orchestrator
 
 Aegis is a sophisticated enterprise-grade multi-agent system powered by LangGraph. It automates compliance audits, policy generation, and task management by orchestrating specialized AI agents to process company documents and data.
 
